@@ -110,7 +110,7 @@ class MyApp extends StatelessWidget {
                     ),
                     alignment: Alignment.center,
                     child: Text(
-                      "Hello and welcome to our class everday we have class",
+                      "Hello and welcome to our class  we have class",
                     ),
                   ),
                 ],
